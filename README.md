@@ -12,6 +12,9 @@
 
 ## 部署步骤
 
+- **Route_Game/GGJ_directory_structure/release目录下为游戏的Release版本，包含可执行文件**
+- **Route_Game/GGJ_directory_structure/src目录下为游戏的源码**
+
 1. **确保当前电脑安装了Visual Studio，版本为2017及以上。**
 2. 运行Script文件夹下的**Build.bat**文件，该脚本会自动生成电脑对应版本的Visual Studio解决方案文件。
 3. 打开Collection文件夹下生成的**Project.sln**文件。
